@@ -1,7 +1,3 @@
-package myMail;
-
-
-
 public class myMail {
 
 	public static void main(String[] args) {
