@@ -1,6 +1,3 @@
-package myMail;
-
-
 public class Message {
 	
 	    //Based on P8.15 and P8.16
@@ -33,8 +30,3 @@ String sender,recipient,Text;
 		}
 
 }
-
-
-
-
-  
