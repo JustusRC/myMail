@@ -1,5 +1,3 @@
-package myMail;
-
 import java.util.ArrayList;
 public class Mailbox {
 	
